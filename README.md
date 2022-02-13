@@ -16,7 +16,7 @@ A.To Run Backend
 
 3.import project as maven project in eclispe or STS IDE
 
-4.After importing run java class CommentAppApplication.java under com.comment.app package
+4.After importing right click on java class CommentAppApplication.java under com.comment.app package. select run as java application.
  
 5.please add CORS origin plugin In Firefox
 
@@ -25,8 +25,8 @@ A.To Run Backend
 1.extract zip file
  
 2.import project as maven project in eclipse or STS IDE
- 
-3.After importing run java class CommentAppApplication.java under com.comment.app package
+
+3.After importing right click on java class CommentAppApplication.java under com.comment.app package. select run as java application.
  
 4.please add CORS origin plugin In Firefox
  
