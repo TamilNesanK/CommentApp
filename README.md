@@ -40,3 +40,5 @@ B.To Run Frond End
 3.run command npm install
 
 4.run command npm start.
+
+5.hit http://localhost:3000
