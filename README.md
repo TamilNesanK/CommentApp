@@ -39,4 +39,4 @@ B.To Run Frond End
 
 3.run command npm install
 
-4.npm start.
+4.run command npm start.
